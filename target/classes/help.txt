@@ -1,0 +1,11 @@
+!help=this
+!createparty <name> <game>=Creates a party
+!setname=Sets the party's name
+!setgame=Sets the party's game
+!listparty=Show members of the party
+!deleteparty=Deletes the party(Leader's only)
+!parties=Lists all available parties
+!joinparty <leader name>=Join the specified leader's party
+!leaveparty <leader name>=Leave the specified leader's party
+
+
