@@ -7,5 +7,3 @@
 !parties=Lists all available parties
 !joinparty <leader name>=Join the specified leader's party
 !leaveparty <leader name>=Leave the specified leader's party
-
-
